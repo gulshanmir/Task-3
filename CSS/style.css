@@ -1,0 +1,110 @@
+*{ 
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+.header{
+    background-color: #212529;
+    padding: 20px 8rem ;
+    text-align: right;
+}
+.header a{
+    color: #ffffff8c;
+    margin: 8px;
+}
+.first{
+    background-color: #0d6efd;
+    text-align: center;
+    padding: 152px 0 96px;
+    
+}
+.first h1{
+    color: #ffffff;
+    font-size: 36px;
+    margin: 0 0 8px;
+}
+.first p{
+    color: #ffffff;
+    font-size: 20px;
+    margin: 0 0 16px;
+}
+.first a{
+    color: #000000;
+    background-color: #f8f9fa;
+    font-size: 20px;
+    padding: 8px 16px;
+    border-radius: 5px;
+    
+}
+
+.about{
+    width: 70%;
+    margin: auto;
+    padding: 144px 0;
+}
+.about h2{
+    color:#212529;
+    font-size: 30px;
+    margin:0 0 8px;
+}
+.about p{
+    color:#212529;
+    font-size: 20px;
+    margin: 0 0 16px;
+    
+}
+.about ul{
+    color: #212529;
+    margin: 0 0 16px;
+    padding: 0 0 0 32px;
+}
+.about li{
+    color: #212529;
+    font-size: 16px;
+}
+.services{
+    background-color: #f8f9fa;
+    background-size: cover;
+    width: 70%;
+    margin: auto;
+    padding: 144px 15rem;
+
+}
+
+.services h2{
+    
+    color: #212529;
+    font-size: 30px;
+    margin: 0 0 8px;
+}
+.services p{
+    color: #212529;
+    font-size: 20px;
+    margin: 0 0 16px;
+}
+.contact{
+    width: 70%;
+    margin: auto;
+    padding: 144px 0;
+}
+.contact h2{
+    color: #212529;
+    font-size: 30px;
+    margin: 0 0 8px;
+}
+.contact p{
+    color: #212529;
+    font-size: 20px;
+    margin: 0 0 16px;
+}
+.footer{
+    background-color: #212529;
+    padding: 48px 0;
+    text-align: center;
+}
+.footer p{
+    color: #ffffff;
+    font-size: 16px;
+}
